@@ -1,0 +1,18 @@
+2024-01-19 06:23:07.829780+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "_USER" not found (this database is empty); SQL statement:
+select u1_0.id,u1_0.email_id,u1_0.password,u1_0.user_name from _user u1_0 where u1_0.email_id=? [42104-224]
+2024-01-19 06:24:44.742142+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "_USER" not found (this database is empty); SQL statement:
+select u1_0.id,u1_0.email_id,u1_0.password,u1_0.user_name from _user u1_0 where u1_0.email_id=? [42104-224]
+2024-01-19 06:25:35.583565+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "_USER" not found (this database is empty); SQL statement:
+select u1_0.id,u1_0.email_id,u1_0.password,u1_0.user_name from _user u1_0 where u1_0.email_id=? [42104-224]
+2024-01-19 06:27:32.244722+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "_USER" not found (this database is empty); SQL statement:
+select u1_0.id,u1_0.email_id,u1_0.password,u1_0.user_name from _user u1_0 where u1_0.email_id=? [42104-224]
+2024-01-19 06:28:39.250452+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "_USER" not found (this database is empty); SQL statement:
+select u1_0.id,u1_0.email_id,u1_0.password,u1_0.user_name from _user u1_0 where u1_0.email_id=? [42104-224]
+2024-01-19 06:30:44.728866+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "_USER" not found (this database is empty); SQL statement:
+select u1_0.id,u1_0.email_id,u1_0.password,u1_0.user_name from _user u1_0 where u1_0.email_id=? [42104-224]
